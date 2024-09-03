@@ -32,17 +32,16 @@ With strong organizational skills and a keen attention to detail, I excel in fas
 - Collaborated with cross-functional teams to deliver high-quality software solutions on time.
 
 ## Technical Skills
-- **Languages & Frameworks:** HTML5, CSS3 (Sass, Scss, Styled Components), TypeScript, React (RTK / RTK Query), React Native, REST API, GraphQL
-- **Development Tools:** Storybook, Jest, Vitest, Webpack, Vite, VitePWA
-- **Monitoring & Analytics:** FullStory, Sentry, SaaSquatch, Stripe, LaunchDarkly
-- **Version Control:** Git, GitLab
-- **Package Managers:** NPM, Yarn
-- **Project Management:** Jira, ClickUp, Scrum, Kanban
-- **Design Tools:** Figma, Adobe XD + Responsive Design
-- **UI Libraries:** Antd, Material UI, React Bootstrap
-- **Testing & Linting:** Testing Library (React), ESLint, Prettier, Husky, SWC (Speedy Web Compiler)
-- **APIs & Integrations:** REST API, Google Maps API, Stripe API, Sentry, FullStory, LaunchDarkly, SaaSquatch, Redux Toolkit, RTK Query, GraphQL
-- **Configuration & Build Tools:** Vite, Webpack, VitePWA, Storybook
+- **Languages & Frameworks:** HTML5, CSS3 (Sass, Scss, Styled Components), TypeScript, React (RTK / RTK Query), React Native.
+- **Monitoring | Analytics:** FullStory, Sentry.
+- **Version Control:** Git, GitLab.
+- **Package Managers:** NPM, Yarn.
+- **Project Management:** Jira, ClickUp, Scrum, Kanban.
+- **Design Tools:** Figma, Adobe XD, Photoshop.
+- **UI Libraries:** Antd, Material UI, React Bootstrap.
+- **Testing & Linting:** React Testing Library (RTL), ESLint, Prettier, Husky, Github Actions.
+- **APIs & Integrations:** REST API, Google Maps API, Stripe API, Sentry, FullStory, LaunchDarkly, SaaSquatch, Redux Toolkit, RTK Query, GraphQL.
+- **Configuration & Build Tools:** Vite, Webpack, VitePWA, Storybook, SWC compiler.
 
 ## Personal Skills
 - **Organization and Responsibility:** Strong organizational skills and a sense of responsibility.
