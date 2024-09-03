@@ -39,9 +39,9 @@ With strong organizational skills and a keen attention to detail, I excel in fas
 - **Project Management:** Jira, ClickUp, Scrum, Kanban.
 - **Design Tools:** Figma, Adobe XD, Photoshop.
 - **UI Libraries:** Antd, Material UI, React Bootstrap.
-- **Testing & Linting:** React Testing Library (RTL), ESLint, Prettier, Husky, Github Actions.
-- **APIs & Integrations:** REST API, Google Maps API, Stripe API, Sentry, FullStory, LaunchDarkly, SaaSquatch, Redux Toolkit, RTK Query, GraphQL.
-- **Configuration & Build Tools:** Vite, Webpack, VitePWA, Storybook, SWC compiler.
+- **Testing & Linting:** Jest, Vitest, React Testing Library, ESLint, Prettier, Husky, Github Actions.
+- **APIs & Integrations:** REST API, GraphQL, Redux Toolkit/Query, Google API (Maps & Analytics), Stripe API, Sentry, FullStory, Userpilot, LaunchDarkly, SaaSquatch.
+- **Configuration & Build Tools:** Webpack, SWC, Vite, VitePWA, Storybook.
 
 ## Personal Skills
 - **Organization and Responsibility:** Strong organizational skills and a sense of responsibility.
