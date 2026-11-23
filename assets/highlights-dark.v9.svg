@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="436" viewBox="0 0 1000 436" role="img"
+     aria-label="Lead role in a big codebase migration (plan to done, no pause in feature delivery); −30% initial bundle (smarter code splitting and build tooling); All green Core Web Vitals (faster first load and smoother UI); 3 weeks from zero to production (new product, stack and architecture); ~40% faster test writing (mocks, integration and end-to-end tests); ~80% code written by AI agents (always under human review); ~2x faster delivery (agent-first, spec-driven workflow); Rules not prompts (team standards built into every agent run); 1,700+ commits (most in the main frontend repo)">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#13233F"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F6FD6"/><stop offset="1" stop-color="#7A4FE0"/></linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter></defs>
+  <style>
+    .card{fill:#111B2E;stroke:#5B6B82;stroke-opacity:.3}
+    .val{font:800 36px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#edge)}
+    .lbl{font:700 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#E6EDF7}
+    .det{font:500 13.5px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#9FB3CC}
+    .c{opacity:0;animation:in .7s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.c{animation:none;opacity:1}}
+  </style>
+  <g class="c" style="animation-delay:0.00s" transform="translate(0,0)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">Lead role</text>
+    <text x="26" y="88" class="lbl">in a big codebase migration</text>
+    <text x="26" y="112" class="det">plan to done, no pause in feature delivery</text>
+  </g><g class="c" style="animation-delay:0.12s" transform="translate(340,0)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">−30%</text>
+    <text x="26" y="88" class="lbl">initial bundle</text>
+    <text x="26" y="112" class="det">smarter code splitting and build tooling</text>
+  </g><g class="c" style="animation-delay:0.24s" transform="translate(680,0)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">All green</text>
+    <text x="26" y="88" class="lbl">Core Web Vitals</text>
+    <text x="26" y="112" class="det">faster first load and smoother UI</text>
+  </g><g class="c" style="animation-delay:0.36s" transform="translate(0,152)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">3 weeks</text>
+    <text x="26" y="88" class="lbl">from zero to production</text>
+    <text x="26" y="112" class="det">new product, stack and architecture</text>
+  </g><g class="c" style="animation-delay:0.48s" transform="translate(340,152)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">~40%</text>
+    <text x="26" y="88" class="lbl">faster test writing</text>
+    <text x="26" y="112" class="det">mocks, integration and end-to-end tests</text>
+  </g><g class="c" style="animation-delay:0.60s" transform="translate(680,152)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">~80%</text>
+    <text x="26" y="88" class="lbl">code written by AI agents</text>
+    <text x="26" y="112" class="det">always under human review</text>
+  </g><g class="c" style="animation-delay:0.72s" transform="translate(0,304)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">~2x</text>
+    <text x="26" y="88" class="lbl">faster delivery</text>
+    <text x="26" y="112" class="det">agent-first, spec-driven workflow</text>
+  </g><g class="c" style="animation-delay:0.84s" transform="translate(340,304)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">Rules</text>
+    <text x="26" y="88" class="lbl">not prompts</text>
+    <text x="26" y="112" class="det">team standards built into every agent run</text>
+  </g><g class="c" style="animation-delay:0.96s" transform="translate(680,304)">
+    <rect width="320" height="132" rx="16" class="card"/>
+    <rect x="0" y="18" width="4" height="96" rx="2" fill="url(#edge)"/>
+    <text x="26" y="58" class="val">1,700+</text>
+    <text x="26" y="88" class="lbl">commits</text>
+    <text x="26" y="112" class="det">most in the main frontend repo</text>
+  </g>
+</svg>
